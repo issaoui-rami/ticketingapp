@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/issaouirami/static/css/main.d289369f.chunk.css",
+    "main.js": "/issaouirami/static/js/main.09768ef0.chunk.js",
+    "main.js.map": "/issaouirami/static/js/main.09768ef0.chunk.js.map",
+    "runtime-main.js": "/issaouirami/static/js/runtime-main.54d9366f.js",
+    "runtime-main.js.map": "/issaouirami/static/js/runtime-main.54d9366f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/issaouirami/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fbae297e.chunk.js": "/issaouirami/static/js/2.fbae297e.chunk.js",
+    "static/js/2.fbae297e.chunk.js.map": "/issaouirami/static/js/2.fbae297e.chunk.js.map",
+    "index.html": "/issaouirami/index.html",
+    "precache-manifest.cdeb6526a4cce20e111feec137e7d03f.js": "/issaouirami/precache-manifest.cdeb6526a4cce20e111feec137e7d03f.js",
+    "service-worker.js": "/issaouirami/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/issaouirami/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.d289369f.chunk.css.map": "/issaouirami/static/css/main.d289369f.chunk.css.map",
+    "static/js/2.fbae297e.chunk.js.LICENSE.txt": "/issaouirami/static/js/2.fbae297e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54d9366f.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fbae297e.chunk.js",
+    "static/css/main.d289369f.chunk.css",
+    "static/js/main.09768ef0.chunk.js"
+  ]
+}
